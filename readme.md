@@ -1,5 +1,9 @@
 # Web notes
 
+## Patterns
+
+* [Patterns.dev](https://www.patterns.dev/)
+
 ## Testing
 
 ### E2E
