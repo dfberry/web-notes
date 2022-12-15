@@ -2,6 +2,10 @@
 
 ## Frameworks
 
+### Frontend middleware
+
+* [refine](https://refine.dev/docs/examples/data-provider/strapi-graphql/) - Build your React-based CRUD applications, without constraints. An open source, headless web application framework developed with flexibility in mind.
+
 ### Next.js
 
 For [data fetching](https://blog.logrocket.com/ssg-vs-ssr-in-next-js/), Next.js provides three different functions:
