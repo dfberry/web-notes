@@ -4,7 +4,17 @@
 
 ### Frontend middleware
 
-* [refine](https://refine.dev/docs/examples/data-provider/strapi-graphql/) - Build your React-based CRUD applications, without constraints. An open source, headless web application framework developed with flexibility in mind.
+* [refine](https://refine.dev/docs/examples/data-provider/strapi-graphql/) - Build your React-based CRUD applications, without constraints. An open source, headless web application framework developed with flexibility in mind. Integrating with Cloud services could include: 
+  * Azure SDKs
+    * Cognitive Search - add search to website - specifically the filtering capability
+    * Blob storage - upload/download/get sas token
+    * Cosmos DB - NoSQL api
+    * Cognitive Services - i18n - Translator text
+    * Identity - authentication 
+  * GitHub
+    * Octokit
+    * GraphQL
+    * REST   
 
 ### Next.js
 
