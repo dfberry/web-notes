@@ -10,6 +10,10 @@ For [data fetching](https://blog.logrocket.com/ssg-vs-ssr-in-next-js/), Next.js 
 * getServerSideProps:  The page will be pre-rendered at runtime
 * getStaticPaths : This function generates a list of pages that will be pre-rendered at build time
 
+Example repos: 
+
+* [https://github.com/samfromaway/next-data-fetching/](https://github.com/samfromaway/next-data-fetching/)
+
 ## Patterns
 
 * [Patterns.dev](https://www.patterns.dev/)
