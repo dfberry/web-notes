@@ -2,6 +2,10 @@
 
 ## Frameworks
 
+### React
+
+* [TypeScript cheatsheet [docs](https://react-typescript-cheatsheet.netlify.app/docs) & [repo](https://github.com/typescript-cheatsheets/react)
+
 ### Frontend middleware
 
 * [refine](https://refine.dev/docs/examples/data-provider/strapi-graphql/) - Build your React-based CRUD applications, without constraints. An open source, headless web application framework developed with flexibility in mind. Integrating with Cloud services could include: 
